@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jimin%20Lee&fontSize=70&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jimin%20Lee&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 ![Jimin's github stats](https://github-readme-stats.vercel.app/api?username=jimin0127&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimin0127&layout=compact&langs_count=81)
 
